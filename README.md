@@ -42,8 +42,8 @@ This is a simple weather application that allows users to search for the current
 
 ### Links
 
-- Solution URL: [https://github.com/hoor23/MultiStep_Form.git](https://github.com/hoor23/MultiStep_Form.git)
-- Live Site URL: [ https://hoor23.github.io/MultiStep_Form/]( https://hoor23.github.io/MultiStep_Form/)
+- Solution URL: [https://github.com/HooriaSaeeda/MultiStep_Form.git](https://github.com/HooriaSaeeda/MultiStep_Form)
+- Live Site URL: [https://hooriasaeeda.github.io/MultiStep_Form/](https://hooriasaeeda.github.io/MultiStep_Form/)
 
 ## My process
 
