@@ -96,9 +96,9 @@ For future iterations of the project, I plan to:
 - Implement a backend service to store user data and handle QR code generation.
 
 ## Author
-- Frontend Mentor - [hoor23](https://www.frontendmentor.io/profile/hoor23)
-- Github - [hoor23](https://github.com/hoor23)
-- LinkedIn - [Hoor Seyda](www.linkedin.com/in/hoor-seyda-901176222)
+- Github - [HooriaSaeeda](https://github.com/HooriaSaeeda)
+- Frontend Mentor - [HooriaSaeeda](https://www.frontendmentor.io/profile/HooriaSaeeda)
+- Linkedin - [Hoor Seyda](linkedin.com/in/hoor-seyda-901176222)
 
 ## Acknowledgments
 
